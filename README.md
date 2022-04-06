@@ -1,9 +1,10 @@
 ### Hi there 👋
-![profil](https://user-images.githubusercontent.com/101530252/161871762-67fc5d91-18e6-48d7-87b8-17ca956a1113.jpg)
+
+![profil](https://user-images.githubusercontent.com/101530252/161871971-a25f4f15-bb49-48f3-9673-af9d928558b3.jpg)
 
 ##### Hi, I'm Adam:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
+- 🎓I am currently studying at the UABJO university in Oaxaca.
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
